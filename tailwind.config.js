@@ -22,6 +22,10 @@ module.exports = {
         slideDown: 'slideDown .3s ease-in-out',
       },
 
+      backgroundImage:{
+        'slider-bg': 'url("./img/slider.webp")'
+      }
+
     },
 
   },
